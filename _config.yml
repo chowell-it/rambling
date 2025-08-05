@@ -1,5 +1,13 @@
+
+
+title: Howell's Ramblings
+description: A place for me to upload guides, projects, and other things I find interesting.
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
 # Navigation links
-nav:
+navigation:
   - title: "Writeups"
     url: /categories/writeups/
   - title: "Guides"
@@ -8,12 +16,6 @@ nav:
     url: /categories/projects/
   - title: "Other Ramblings"
     url: /categories/other-ramblings/
-
-title: Howell's Ramblings
-description: A place for me to upload guides, projects, and other things I find interesting.
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
 
 # Recommended settings
 repository: chowell-it/ramblings
