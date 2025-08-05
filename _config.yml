@@ -1,0 +1,8 @@
+title: Howell's Ramblings
+description: A place for me to upload guides, projects, and other things I find interesting.
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+# Recommended settings
+repository: chowell-it/ramblings
