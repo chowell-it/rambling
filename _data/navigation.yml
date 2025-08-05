@@ -1,0 +1,10 @@
+# Navigation links
+navigation:
+  - title: "Writeups"
+    url: /categories/writeups/
+  - title: "Guides"
+    url: /categories/guides/
+  - title: "Projects"
+    url: /categories/projects/
+  - title: "Other Ramblings"
+    url: /categories/other-ramblings/
